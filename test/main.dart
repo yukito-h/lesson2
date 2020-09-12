@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
 
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'flutter 大学'),
+      home: MyHomePage(title: 'my appri'),
     );
   }
 }
